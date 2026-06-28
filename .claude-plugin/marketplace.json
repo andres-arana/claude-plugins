@@ -1,0 +1,11 @@
+{
+  "name": "andres",
+  "owner": { "name": "Andres Arana" },
+  "plugins": [
+    {
+      "name": "personal",
+      "source": "./plugins/personal",
+      "description": "Andres's personal Claude Code skills and tmux notification hooks, shared across config profiles."
+    }
+  ]
+}

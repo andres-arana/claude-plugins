@@ -1,0 +1,5 @@
+{
+  "name": "personal",
+  "description": "Personal skills (claude-config-profiles, spec-writer) and tmux notification hooks.",
+  "author": { "name": "Andres Arana" }
+}
